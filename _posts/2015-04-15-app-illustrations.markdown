@@ -11,7 +11,7 @@ I just finished a collection of app illustrations for an awesome company I've be
 
 ![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/LikeMe_SunsetEmpty.png)
 
-##Detail shots
+#### Detail shots
 ![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/detail1.jpg)
 
 ![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/detail2.jpg)

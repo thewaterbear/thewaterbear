@@ -2,7 +2,8 @@
 ---
 
 $(document).ready(function() {
- 
+ 	
+
  	//these images are not optimized, mad slow
 	var imageArray = [
 		{img: 'blocking.jpg', type:"wide", y:'100%'},
@@ -19,7 +20,7 @@ $(document).ready(function() {
 		{img: 'fallen.png'},
 		{img: 'week2.jpg', type:"wide",y:'100%'},
 		{img: 'escape_velocity.gif'},
-		{img: 'up_sm.gif', type:"long"},
+		{img: 'meetingspot.png', type:"long"},
 		{img: 'coolColorMix.png', type:"long"},
 		{img: 'humanbotreflection.jpg'},
 		{img: 'mt.jpg', type:"wide",y:'90%'},
@@ -31,7 +32,7 @@ $(document).ready(function() {
 	];
 
 	var blocksPerRow = 3;
-	var $blockBase = $("<div class='block'></div>");
+	var $blockBase = $("<div class='block lazy'></div>");
 	var allBlocks = "";
 	var idx = 0; //index for images array, not blocks
 	var fullCount = 0;
@@ -50,17 +51,23 @@ $(document).ready(function() {
 	for(var i = 0; i < fullCount; i++) {
 	   if(gridCheck[i]==true) {
 		   $block = $blockBase.clone(true);
-		   $($block).css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
+
+		   // $($block).css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
+
 		   if(imageArray[idx].type) {
-		   	$($block).html('<div class="'+imageArray[idx].type+'"></div>');
-		   	$($block).children().css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
-		   	$($block).children().css('background-position-y', imageArray[idx].y);
+		   	$($block).html('<div class="'+imageArray[idx].type+' lazy"></div>');
+		   	// $($block).children().css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
+		   	// $($block).children().css('background-position-y', imageArray[idx].y);
+		   $($block).children().attr("data-original", baseURL+imageArray[idx].img);
+
 		   	if(imageArray[idx].type == "wide") {
 				gridCheck[i+1] = false;
 		   	}
 		   	if(imageArray[idx].type == "long") {
 		   		gridCheck[i+blocksPerRow] = false;
 		   	}
+		   } else {
+		   	$($block).attr("data-original", baseURL+imageArray[idx].img);
 		   }
 		   $(".grid").append($block);
 		   idx++;
@@ -71,6 +78,41 @@ $(document).ready(function() {
 		}
 	}
 
+	$("div.lazy").lazyload({
+		effect:"fadeIn"
+	});
+      
+	$(window).bind("load", function() {
+		console.log("all loaded");
+		// now we grab gifs?
+		// var $image = $("img").first();
+		// var $downloadingImage = $("<img>");
+		// $downloadingImage.load(function(){
+		//   $image.attr("src", $(this).attr("src"));	
+		// });
+		// $downloadingImage.attr("src", "http://an.image/to/aynchrounously/download.jpg");
+
+		
+	});
+	 // var $longs= $(".l");
+	 // for(var i = 0; i < $longs.length; i++) {
+		//    	var bg = $($longs[i]).css('background-image');
+	 // 		$($longs[i]).html('<div class="long"></div>');
+		//    	$($longs[i]).children().css('background-image', bg);
+		//    	// $($longs[i]).children().css('background-position-y', imageArray[idx].y);
+	 // }
+
+
+	 // var $wides= $(".w");
+	 // for(var i = 0; i < $wides.length; i++) {
+		//    	var bg = $($wides[i]).css('background-image');
+	 // 		$($wides[i]).html('<div class="wide"></div>');
+		//    	$($wides[i]).children().css('background-image', bg);
+		//    	// $($longs[i]).children().css('background-position-y', imageArray[idx].y);
+	 // }
+
+
+	 // $("img").unveil();
 	//Do this all in 1 HTML() call for performance
 
 	//row wrap for future responsiveness? Is this needed?	
