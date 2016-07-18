@@ -1,6 +1,0 @@
----
-layout: post
-title: Oak
-date: 2016-06-18 12:39:32.000000000 -04:00
----
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/Jun/oaks.jpg)

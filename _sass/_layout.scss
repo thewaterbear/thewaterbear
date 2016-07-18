@@ -187,11 +187,15 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    text-transform:uppercase;
+    opacity:0.75;
+    letter-spacing:1px;
 }
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 32px;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 
@@ -201,10 +205,12 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    margin-top: 40%;
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 52px;
+    font-family: 'Noto Sans', sans-serif;
     letter-spacing: -1px;
     line-height: 1;
 

@@ -1,6 +1,0 @@
----
-layout: post
-title: Storm
-date: 2016-05-13 12:46:14.000000000 -04:00
----
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/May/ello_optimized_ca1b2835.jpg)

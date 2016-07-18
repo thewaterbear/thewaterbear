@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Open+Sans|Rajdhani";
+
 
 $cols: 3;
 $blockWidth: 27%;
@@ -16,6 +16,8 @@ $aspectRatio: 75%;
   /*max-width: 1200px;*/
   margin: auto;
   margin-bottom: 50px;
+  min-height: 500px;
+  height: 100%;
 }
 
 .block {
@@ -27,6 +29,7 @@ $aspectRatio: 75%;
   flex: 0 1 auto;
   background-size: cover;
   background-position: center;
+  background-color:#fbf5f0;
 }
 
 .row {
