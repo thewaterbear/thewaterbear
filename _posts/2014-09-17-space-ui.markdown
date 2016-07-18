@@ -1,0 +1,14 @@
+---
+layout: post
+title: Space UI
+date: 2014-09-17 15:23:26.000000000 -04:00
+---
+
+Recently I've been working on a simple and clean UI for a space related app. I can't say any more right now but when it launches I'll be sure to post more details.
+
+![UI Stillshot](/content/images/2014/Sep/uimock.jpg)
+
+![Space UI](https://d13yacurqjgara.cloudfront.net/users/6084/screenshots/1729867/ui_loop.gif)
+
+
+[View on Dribbble](https://dribbble.com/shots/1729867-Space-UI)

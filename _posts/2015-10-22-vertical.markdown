@@ -1,0 +1,12 @@
+---
+layout: post
+title: Vertical
+date: 2015-10-22 17:18:33.000000000 -04:00
+---
+A few vertical illustrations for various projects.
+
+![](/content/images/2015/Oct/suntowerwallpaper.jpg)
+
+![](/content/images/2015/Oct/windsblank.jpg)
+
+![](/content/images/2015/Oct/som.jpg)
