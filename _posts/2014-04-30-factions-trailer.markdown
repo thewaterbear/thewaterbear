@@ -16,16 +16,16 @@ The video will be launched soon along with their kickstarter campaign. In the me
 
 
 
-![](/content/images/2014/Apr/FilmStrip.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Apr/FilmStrip.jpg)
 
 
-![](/content/images/2014/Apr/boardCity.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Apr/boardCity.jpg)
 
 Everything was composited, lit, and animated in After Effects. If you have any questions about process or technique feel free to [ask me on Twitter](http://www.twitter.com/davechenell)
 
 Anddd a quick gif!
 
-![](/content/images/2014/May/MeatshieldReveal2.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/MeatshieldReveal2.gif)
 
 UPDATE: [The campaign is now live on kickstarter](https://www.kickstarter.com/projects/699966849/factions-a-customizable-strategy-wargame)
 

@@ -5,7 +5,7 @@ date: 2015-05-29 10:51:22.000000000 -04:00
 ---
 
 <a href="http://www.stumbbble.com">
-![](/content/images/2015/May/stumbbble-1.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/May/stumbbble-1.png)
 </a>
 
 Stumbbble is an idea I've had kicking around for a few years.

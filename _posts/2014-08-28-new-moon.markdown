@@ -11,7 +11,7 @@ width:100%;
 
 ![](https://d13yacurqjgara.cloudfront.net/users/6084/screenshots/1703043/newmoon.gif)
 
-![](/content/images/2014/Aug/closeup.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Aug/closeup.jpg)
 
 <video autoplay loop>
   <source src="https://d13yacurqjgara.cloudfront.net/users/6084/screenshots/1703043/attachments/271677/mp4Loop3.mp4" type="video/mp4">

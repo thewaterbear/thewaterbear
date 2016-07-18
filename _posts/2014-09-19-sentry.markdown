@@ -4,7 +4,7 @@ title: Sentry
 date: 2014-09-19 11:58:03.000000000 -04:00
 ---
 
-![Sentry](/content/images/2014/Sep/magesticWidescreen.jpg)
+![Sentry](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Sep/magesticWidescreen.jpg)
 
 Last night I reworked an old model, testing various poses and planning out a run cycle. The model was built in Maya, lit and rendered in Cinema4D. This is a majestic lookout pose, a sentry moments after spotting something in the distance. Some animated tests will be coming soon.
 

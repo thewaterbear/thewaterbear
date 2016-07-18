@@ -3,7 +3,7 @@ layout: post
 title: Arthur | Skyward
 date: 2014-09-15 14:08:41.000000000 -04:00
 ---
-![Skyward Album Cover](/content/images/2014/Sep/arthurSkywardShare.jpg)
+![Skyward Album Cover](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Sep/arthurSkywardShare.jpg)
 
 About a year ago I started producing music. It started with my friends and I just jamming around on keyboards, drum machines, ipads, and whatever else made noise that we could get our hands on.
 

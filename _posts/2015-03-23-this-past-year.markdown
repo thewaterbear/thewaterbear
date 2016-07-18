@@ -3,7 +3,7 @@ layout: post
 title: This past year
 date: 2015-03-23 10:17:31.000000000 -04:00
 ---
-![](/content/images/2015/Mar/yearreview.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Mar/yearreview.png)
 ######[View full res](http://i.imgur.com/IyeQpxD.png)
 ##This blog is one year old
 Last  year around this time I decided I was going to "get better at the internet". My former startup had officially just failed and I moved from a friends couch to a real apartment to began freelancing full time. I started this blog and began sharing the various design/animation/programming projects I get myself into without any real theme or goal in mind.

@@ -3,7 +3,7 @@ layout: post
 title: New Development Stack
 date: 2014-02-12 17:14:00.000000000 -05:00
 ---
-![](/content/images/2014/Feb/sailsjs-1.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Feb/sailsjs-1.png)
 
 
 After roughly a year long break from web development to work in Unity and iOS, I’m back.

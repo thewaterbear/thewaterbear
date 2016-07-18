@@ -11,13 +11,13 @@ Another side feature will be a split screen before/after. This split screen effe
 
 Here are some screenshots.
 
-![](/content/images/2014/May/blur1.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/blur1.jpg)
 
-![](/content/images/2014/May/blur3.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/blur3.jpg)
 
-![](/content/images/2014/May/blur2.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/blur2.jpg)
 
-![](/content/images/2014/May/blur5.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/blur5.jpg)
 
 The new version of Blur will be launching soon.
 [You can download Blur here](https://itunes.apple.com/us/app/blur-create-custom-wallpapers/id637855838?mt=8)

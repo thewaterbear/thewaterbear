@@ -3,7 +3,7 @@ layout: post
 title: Open folder in Sublime Text from the command line
 date: 2014-02-15 17:47:01.000000000 -05:00
 ---
-![](/content/images/2014/Feb/Screen_Shot_2014_02_15_at_9_35_10_PM.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Feb/Screen_Shot_2014_02_15_at_9_35_10_PM.png)
 
 This is a quick tip I recently found that saves a ton of time.
 

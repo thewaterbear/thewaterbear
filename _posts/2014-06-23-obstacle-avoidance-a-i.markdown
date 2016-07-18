@@ -5,7 +5,7 @@ date: 2014-06-23 16:32:39.000000000 -04:00
 ---
 Here is some AI I made this weekend for a game I'm working on.
 
-![](/content/images/2014/Jun/goodGif.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jun/goodGif.gif)
 
 ####The Scene
 
@@ -13,13 +13,13 @@ The black dots themselves aren't moving that fast vertically, actually they are 
 
 Here is what the scene looks like:
 
-![](/content/images/2014/Jun/ryftScene.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jun/ryftScene.png)
 
 
 Since our characters are dots, and they are only going down we don't need to deal with steering and rotation, which is really nice. Each dot has 5 rays (or LASERS!) that point down the screen.
 
 
-![](/content/images/2014/Jun/laserGifAI.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jun/laserGifAI.gif)
 
 The actual behavior is really simple, there are two main states, SAFE and UNSAFE. If a dot hits a block with it's awesome laser eyes, then it's UNSAFE, otherwise things are good (SAFE).
 

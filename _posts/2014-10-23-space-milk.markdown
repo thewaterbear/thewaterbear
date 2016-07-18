@@ -3,7 +3,7 @@ layout: post
 title: Space Milk
 date: 2014-10-23 13:20:37.000000000 -04:00
 ---
-![](/content/images/2014/Oct/spaceMilkAnimatedCover.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Oct/spaceMilkAnimatedCover.gif)
 
 A new playlist of audio inspiration. This collection of songs is threaded with heavy syth pads, milky drums, and smooth ambient leads.
 

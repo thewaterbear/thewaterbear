@@ -5,7 +5,7 @@ date:   2016-02-17 23:44:41 -0400
 categories: terminal
 ---
 
-![](http://thewaterbear.com/content/images/2014/Feb/Screen_Shot_2014_02_15_at_9_35_10_PM.png)
+![](http://thewaterbear.comhttps://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Feb/Screen_Shot_2014_02_15_at_9_35_10_PM.png)
 
 This is a quick tip I recently found that saves a ton of time.
 

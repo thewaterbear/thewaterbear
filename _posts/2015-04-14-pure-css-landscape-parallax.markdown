@@ -18,15 +18,15 @@ img.gif {width:100%}
 
 The design for this project was done by Eric Clecker, hes awesome [and you should follow him.](https://dribbble.com/cleck) Below is the progression of the illustrations, from the blocking sketch to coloring and texturing.
 
-![](/content/images/2015/Apr/unnamed.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/unnamed.jpg)
 
-![](/content/images/2015/Apr/unnamed_1.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/unnamed_1.jpg)
 
-![](/content/images/2015/Apr/unnamed_2.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/unnamed_2.jpg)
 
-![](/content/images/2015/Apr/unnamed.png)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/unnamed.png)
 
-![](/content/images/2015/Apr/unnamed_4.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Apr/unnamed_4.jpg)
 
 
 

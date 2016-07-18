@@ -3,4 +3,4 @@ layout: post
 title: Ocean
 date: 2015-08-03 13:40:45.000000000 -04:00
 ---
-![](/content/images/2015/Aug/retrotwitter.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Aug/retrotwitter.gif)

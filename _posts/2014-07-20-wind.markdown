@@ -14,7 +14,7 @@ width: 100%;
 I had some character designs and animation styles bouncing around in my head all week. I finally got time to test them out this weekend! Below is a continuation of my last blog post about attempting a more organic style. The hair animation was done with wave distortion, basic rotation and a bit of puppet tool.
 
 
-![Tai loop](/content/images/2014/Jul/warmColorMotion.gif)
+![Tai loop](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jul/warmColorMotion.gif)
 
 Hopefully lots more of this coming soon.
 

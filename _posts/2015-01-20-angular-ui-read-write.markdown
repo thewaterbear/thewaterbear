@@ -3,7 +3,7 @@ layout: post
 title: Angular UI Read/Write
 date: 2015-01-20 21:56:43.000000000 -05:00
 ---
-![](/content/images/2015/Jan/angularShare.gif)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Jan/angularShare.gif)
 
 
 Recently I've been working on a CMS platform in AngularJS.

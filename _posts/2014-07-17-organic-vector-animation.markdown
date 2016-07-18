@@ -4,7 +4,7 @@ title: Exploring Organic Vector Animation
 date: 2014-07-17 14:17:28.000000000 -04:00
 ---
 
-![Organic Vector Animation](/content/images/2014/Jul/StyleTest.gif)
+![Organic Vector Animation](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jul/StyleTest.gif)
 
 
 Hand drawn animation looks amazing. Last night, I wanted to see if  I could combine a few techniques I've seen out there to make a vector based animation that looks organic.

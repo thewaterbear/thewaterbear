@@ -3,7 +3,7 @@ layout: post
 title: Ryft Soundtrack
 date: 2014-05-13 14:02:30.000000000 -04:00
 ---
-![Galactic Compass, a song from RYFT](/content/images/2014/May/galacticCompass2ksqr.png)
+![Galactic Compass, a song from RYFT](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/galacticCompass2ksqr.png)
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149323769&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>

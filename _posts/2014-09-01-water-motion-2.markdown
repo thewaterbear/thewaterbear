@@ -11,7 +11,7 @@ width:100%;
 
 ![Water Study 2](https://d13yacurqjgara.cloudfront.net/users/6084/screenshots/1707788/thewaterstudy.gif)
 
-![Water Still Shot](/content/images/2014/Sep/WaterStillFull.jpg)
+![Water Still Shot](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Sep/WaterStillFull.jpg)
 
 
 

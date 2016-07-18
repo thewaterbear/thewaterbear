@@ -5,7 +5,7 @@ date: 2014-09-05 15:32:58.000000000 -04:00
 ---
 
 
-![](/content/images/2014/Sep/galacticLumberSm.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Sep/galacticLumberSm.jpg)
 
 
 I whipped up a playlist for the return of Designers.mx today. These are some songs that have been powering my brain for the past few months.

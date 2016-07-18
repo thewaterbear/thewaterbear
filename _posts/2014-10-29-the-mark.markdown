@@ -3,4 +3,4 @@ layout: post
 title: The Mark
 date: 2014-10-29 10:07:19.000000000 -04:00
 ---
-![](/content/images/2014/Oct/markerCropWide.jpg)
+![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Oct/markerCropWide.jpg)
