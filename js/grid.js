@@ -29,6 +29,38 @@ $(document).ready(function() {
 		{img: 'bots.png'},
 		{img: 'gc2.jpg', type:"wide",y:'100%'},
 		{img: 'phase.gif'},
+		{img: 'terminal.png'},
+		{img: 'nasa.png'},
+		{img: 'tigerfly.png'},
+		{img: 'family.jpg', type:'wide',y:'65%'},
+		{img: 'brandblank.png'},
+		{img: 'koala.jpg', type: 'long'},
+		{img: 'river.png'},
+		{img: 'pass.png'},
+		{img: 'form.png'},
+		{img: 'assemble.png'},
+		{img: 'week1.jpg', type:'wide',y:'75%'},
+		{img: 'windsblank.jpg', type: 'long'},
+		{img: 'road.png'},
+		{img: 'treefriday.png'},
+		{img: 'still.jpg',type:'wide',y:'50%'},
+		{img: 'tower.jpg',type:'long'},
+		{img: 'seam.gif'},
+		{img: 'echo.png'},
+		{img: 'wind.gif'},
+		{img: 'olight.gif',type:'wide',y:'45%'},
+		{img: 'spoken.png'},
+		{img: 'moon.png'},
+		{img: 'wave.gif', type:'long'},
+		{img: 'sky.gif'},
+		{img: 'colony.png'},
+		{img: 'harvest.gif',type:'long'},
+		{img: 'firstlight.jpg',type:'wide',y:'30%'},
+
+		{img: '3am.gif'},
+		{img: 'magic.jpg'},
+		{img: 'dofa.jpg'},
+		{img: 'week3.jpg',type:'wide',y:'35%'},
 	];
 
 	var blocksPerRow = 3;
@@ -51,14 +83,11 @@ $(document).ready(function() {
 	for(var i = 0; i < fullCount; i++) {
 	   if(gridCheck[i]==true) {
 		   $block = $blockBase.clone(true);
-
-		   // $($block).css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
-
 		   if(imageArray[idx].type) {
-		   	$($block).html('<div class="'+imageArray[idx].type+' lazy"></div>');
-		   	// $($block).children().css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
-		   	// $($block).children().css('background-position-y', imageArray[idx].y);
-		   $($block).children().attr("data-original", baseURL+imageArray[idx].img);
+		   		$($block).html('<div class="'+imageArray[idx].type+' lazy"></div>');
+		   		// $($block).children().css('background-image', 'url( '+baseURL+imageArray[idx].img+')');
+		   		$($block).children().attr("data-original", baseURL+imageArray[idx].img);
+		   		$($block).children().css('background-position-y', imageArray[idx].y);
 
 		   	if(imageArray[idx].type == "wide") {
 				gridCheck[i+1] = false;
@@ -92,7 +121,7 @@ $(document).ready(function() {
 		// });
 		// $downloadingImage.attr("src", "http://an.image/to/aynchrounously/download.jpg");
 
-		
+
 	});
 	 // var $longs= $(".l");
 	 // for(var i = 0; i < $longs.length; i++) {
