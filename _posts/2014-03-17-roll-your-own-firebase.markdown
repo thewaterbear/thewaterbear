@@ -4,7 +4,7 @@ title: Roll your own Firebase
 date: 2014-03-17 14:30:52.000000000 -04:00
 ---
 
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Mar/stackTown.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Mar/stackTown.jpg)
 
 Firebase is pretty awesome service.
 https://www.firebase.com/

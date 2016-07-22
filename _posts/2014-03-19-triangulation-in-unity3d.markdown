@@ -18,7 +18,7 @@ Some examples are:
 
 Triangulation is the process in which the program decides how to divide these shapes up into the triangles that will make up the final mesh. There are a few different algorithms that can achieve this, each has different strengths and weaknesses.
 
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Mar/Triangulation.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Mar/Triangulation.jpg)
 
 In the case of Grafighters, the way that the triangles were distributed was important because of how the mesh was going to be used. Long, uninterrupted lines were not desirable because the mesh was going to be animated, bending and morphing in a bunch of different directions. 
 

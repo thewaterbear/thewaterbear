@@ -68,7 +68,8 @@ $(document).ready(function() {
 	var allBlocks = "";
 	var idx = 0; //index for images array, not blocks
 	var fullCount = 0;
-	var baseURL = "http://dl.dropboxusercontent.com/u/255297/portfolio/";
+	// var baseURL = "http://dl.dropboxusercontent.com/u/255297/portfolio/";
+	var baseURL = "http://s3.amazonaws.com/waterbear/portfolio/";
 	for(var i = 0; i < imageArray.length; i++) {
 		fullCount++;
 		if(imageArray[i].type == "long" || imageArray[i].type == "wide") {

@@ -9,7 +9,7 @@ I didn't want to use javascript and muck up controllers, so I found a very simpl
 
 Here is an example of the final result.
 
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/Jul/transitionBig.gif)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Jul/transitionBig.gif)
 
 
 ##How it works

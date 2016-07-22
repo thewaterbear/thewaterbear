@@ -14,4 +14,4 @@ I'm pretty excited about life right now. There are so many things I want to do/b
 I'll be posting a lot more :)
 
 
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2014/May/buckLumberOffice.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/May/buckLumberOffice.jpg)

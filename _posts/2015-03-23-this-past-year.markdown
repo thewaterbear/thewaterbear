@@ -3,7 +3,7 @@ layout: post
 title: This past year
 date: 2015-03-23 10:17:31.000000000 -04:00
 ---
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2015/Mar/yearreview.png)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Mar/yearreview.png)
 
 
 ## This blog is one year old

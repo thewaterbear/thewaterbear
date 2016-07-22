@@ -5,7 +5,7 @@ date: 2016-05-06 14:53:47.000000000 -04:00
 ---
 
 
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/May/2551e835797363_570412c84ad22.jpg)
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/May/b5432c35797363_570412e0af62d.jpg)
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/May/c996a335797363_5704891018155.jpg)
-![](https://dl.dropboxusercontent.com/u/255297/portfolio/ghost/images/2016/May/gc.png)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/2551e835797363_570412c84ad22.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/b5432c35797363_570412e0af62d.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/c996a335797363_5704891018155.jpg)
+![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/gc.png)
