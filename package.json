@@ -1,0 +1,22 @@
+{
+  "name": "thewaterbear",
+  "version": "1.0.0",
+  "description": "thewaterbear personal site and blog",
+  "main": "_site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewaterbear/thewaterbear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewaterbear/thewaterbear/issues"
+  },
+  "homepage": "https://github.com/thewaterbear/thewaterbear#readme",
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1"
+  }
+}
