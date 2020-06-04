@@ -7,7 +7,7 @@ Here is some AI I made this weekend for a game I'm working on.
 
 ![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Jun/goodGif.gif)
 
-####The Scene
+#### The Scene
 
 The black dots themselves aren't moving that fast vertically, actually they are moving very slow. The concept of speed is faked by "shooting" random blocks upward at a speed set by the character.
 
@@ -35,7 +35,7 @@ The choice to go left or right could also be more informed with more data which 
 
 
 
-####Current problems:
+#### Current problems:
 
 The AI works well at fast speeds with fewer blocks, but not so well at slow speed with a high density of blocks. Since it's rays are looking so far ahead (in order to have enough reaction time to move out of the way) a common scenario is for the AI to see a block  in the distance, FREAK OUT, and go flying into a block directly to its left or right. This could be solved a few ways I imagine.
 

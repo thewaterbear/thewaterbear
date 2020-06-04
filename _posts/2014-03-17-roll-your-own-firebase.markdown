@@ -7,14 +7,14 @@ date: 2014-03-17 14:30:52.000000000 -04:00
 ![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Mar/stackTown.jpg)
 
 Firebase is pretty awesome service.
-https://www.firebase.com/
+<https://www.firebase.com/>
 
 Sometimes its even more awesome to make your own.
 
 By chaining together an all star stack of web frameworks, you can achieve the same outcome that firebase promises with even more control. Creating a realtime webapp with no backend code.
 
 This repo is a perfect example of where to start. The best thing to do is clone this repo and start playing around.
-https://github.com/cgmartin/sailsjs-angularjs-bootstrap-example
+<https://github.com/cgmartin/sailsjs-angularjs-bootstrap-example>
 
 Here is a breakdown of what is happening and what everything is used for.
 
@@ -22,7 +22,7 @@ Here is a breakdown of what is happening and what everything is used for.
 
 
 <strong>Angular JS</strong> - The magical front end framework. Getting started with Angular can be daunting, mostly because of the terminology (Factories, Directives, Services) but after a quick runthrough of these video tutorials, you understand how amazingly awesome it is, especially when used in this setup.
-https://egghead.io/tags/AngularJS
+<https://egghead.io/tags/AngularJS>
 
 <strong>Socket.io</strong>- Socket io keeps things realtime. Using socket.io, we can link data from our frontend (Angular) to our backend (Sails) in realtime. This gives you direct CRUD access from Angular, allowing you to put most of your application logic in Angular controllers, while not worrying about the backend.
 

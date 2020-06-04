@@ -18,7 +18,7 @@ Here is a high level overview on how it works
 
 * When in "edit" mode, the HTML5 contenteditable attribute is used for text input and the appropriate css classes are added for editing.
 
-* For dropdowns, I forked and simplified a version of angular-dropdown, which is used for dynamic populating/updating the select items. https://github.com/thewaterbear/angular-dropdowns
+* For dropdowns, I forked and simplified a version of angular-dropdown, which is used for dynamic populating/updating the select items. <https://github.com/thewaterbear/angular-dropdowns>
 
 * Everything is tied together with CSS transitions using ng-class. The DB calls are made using angular $http.
 

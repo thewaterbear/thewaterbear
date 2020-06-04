@@ -12,7 +12,7 @@ Here is an example of the final result.
 ![](http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2014/Jul/transitionBig.gif)
 
 
-##How it works
+## How it works
 To start, make sure you include 'ngAnimate' and 'ui-router' in your  app and you have a handle on nested views and CSS animations in general.
 
 
@@ -26,7 +26,7 @@ Here is the base html. The goal is to have animation happen in the sidebar and d
     
 First we have to make sure the transitions are set up on the divs we want to animate. (using LESS mixins)
 
- 	#masterUI { //very important!
+    #masterUI { //very important!
 		.transition(all 1s); 
         }
     
@@ -42,12 +42,12 @@ IMPORTANT NOTE: If using CSS3 transitions, all child transitions should be compl
  	
     #masterUI.ng-enter {
       (animate any div in your child ui-views)
-  	 #sidebar-wrapper { .translate3d(-@sidebarSize,0,0); }
- 	  #topBar { .translate3d(0,-65px,0); }
+      #sidebar-wrapper { .translate3d(-@sidebarSize,0,0); }
+      #topBar { .translate3d(0,-65px,0); }
     }
     #mainView.ng-enter-active {
-  	 #sidebar-wrapper{ .translate3d(0,0,0); }
- 	  #topBar { .translate3d(0,0,0); }
+      #sidebar-wrapper{ .translate3d(0,0,0); }
+     #topBar { .translate3d(0,0,0); }
     }
     
     #mainView.ng-leave { etc.. }
@@ -59,13 +59,13 @@ IMPORTANT NOTE: If using CSS3 transitions, all child transitions should be compl
     
  For more fun, add [Animate.css](http://daneden.github.io/animate.css/) to your project (covert it to LESS and import it) or create your own custom animation classes. The syntax is now  higher level and more readable. You also don't need to include the ng-enter-active class!
  
- 	#masterUI.ng-enter {
-  	 #sidebar-wrapper { .fadeInLeft; }
- 	  #topBar { .fadeInUp; }
+    #masterUI.ng-enter {
+      #sidebar-wrapper { .fadeInLeft; }
+      #topBar { .fadeInUp; }
     }
     
 
-##Conclusion
+## Conclusion
  
  These examples are simple, but adding more effects, delays, and custom animations can make for much more dynamic transitions.
     
@@ -77,6 +77,6 @@ IMPORTANT NOTE: If using CSS3 transitions, all child transitions should be compl
 UPDATE: Whoa thanks for sharing this everyone, I had no idea this post would be so popular. I wrote this post in a frenzy because I was really excited about it. I'm working on a repo and plunkr right now that lays everything out clearly. Will report back.
 
 UPDATE 2: Here is a simple Plunkr on how to use nested transitions with Animate.css
-http://plnkr.co/edit/ZO2Qhz?p=preview
+<http://plnkr.co/edit/ZO2Qhz?p=preview>
 
 

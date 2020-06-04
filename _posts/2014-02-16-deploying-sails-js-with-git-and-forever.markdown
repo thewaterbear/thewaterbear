@@ -12,7 +12,7 @@ Here are the main things we will be doing in this tutorial.
 3. Auto update code on git push using git hooks on BitBucket (probably very similar for github)
 
 
-###Setting up a git deploy controller
+### Setting up a git deploy controller
 In config/routes.js, add this line (or similar)
 
 <code>'/git-deploy': 'main.gitDeploy',</code>
@@ -35,7 +35,7 @@ In MainController.js
 We will be using this later to automatically update the code on the server everytime we push to the git repo.
 
 
-###Getting Sails on the server
+### Getting Sails on the server
 
 On your server:
 
@@ -69,11 +69,11 @@ Paste in the following code
 
 (:wq to save and quit vi)
 
-more details on local.js here: http://sailsjs.org/#!documentation/deployment
+more details on local.js here: <http://sailsjs.org/#!documentation/deployment>
   
 
 
-###Launch Sails with forever
+### Launch Sails with forever
       cd /var/www/<repo name>
       npm install
       bower install
@@ -87,7 +87,7 @@ You can then view your forever processes by typing:
 You should see your app running as process [0]. This is good because that is the process number we will be restarting after we pull the latest code.
 
 
-###Adding the git hook
+### Adding the git hook
 
 Now put all the pieces together by adding a git post hook in your BitBucket interface
 
@@ -96,6 +96,6 @@ Now put all the pieces together by adding a git post hook in your BitBucket inte
 
 Thats all!
 
-####Current downsides:
+#### Current downsides:
 * This is relatively unsecure because the git pull is somewhat exposed, I would definitely recommend adding more security to your controller. Any visit to that URL with the password will update the code and restart the server.
 * Everytime you push code to the repo the server will restart. I'm not sure how to avoid this. So "hot code pushes" aren't a thing here. Let me know if anyone has a solution to this.

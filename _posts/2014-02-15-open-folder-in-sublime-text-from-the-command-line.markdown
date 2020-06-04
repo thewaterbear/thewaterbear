@@ -13,11 +13,11 @@ Lots of times you just want to be able to pop open your current terminal folder 
 
 Luckily this does exactly that.
 
-#####Run this from the terminal
+##### Run this from the terminal
     sudo ln -s /Applications/Sublime Text.app/Contents/SharedSupport/bin/subl /bin/subl
     
 
-#####Then from your current directory run
+##### Then from your current directory run
     subl .
 
 
@@ -25,4 +25,4 @@ Thats it!
 
 
 Source:
-https://bensmann.no/open-folder-in-sublime/
+<https://bensmann.no/open-folder-in-sublime/>

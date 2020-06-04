@@ -14,7 +14,7 @@ Some examples are:
 *  Creating objects from user defined shapes (Crayon Physics Deluxe)
 * Creating destructible environments (Worms)
 
-###Different types of Triangulation
+### Different types of Triangulation
 
 Triangulation is the process in which the program decides how to divide these shapes up into the triangles that will make up the final mesh. There are a few different algorithms that can achieve this, each has different strengths and weaknesses.
 
@@ -33,4 +33,4 @@ position: absolute; top: 0; left: 0; width: 100%;height: 100%;}
 </style>
 
 <div class='video-container'><iframe src='//www.youtube.com/embed/Nl1JSHIMRbw' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-http://en.wikipedia.org/wiki/Ruppert's_algorithm
+<http://en.wikipedia.org/wiki/Ruppert's_algorithm>
