@@ -103,6 +103,7 @@
     // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     padding-top: 50px;
+    opacity: 0.95;
 }
 
 .footer-heading {
@@ -118,10 +119,18 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
+
+.footer-col-wrapper {
+    a {
+        color: $grey-color-dark;
+
+    }
+}
+
 
 .footer-col {
     float: left;
