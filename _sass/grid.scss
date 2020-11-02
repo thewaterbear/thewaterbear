@@ -101,20 +101,35 @@ $aspectRatio: 75%;
 
 .olio {
   // text-transform: uppercase;
-  font-family: 'Open Sans', sans-serif;
-  // font-family: 'Rajdhani', sans-serif;
-  text-align: left;
-  padding-top: 10%;
+  // font-family: 'Open Sans', sans-serif;
+  font-family:"Sometimes Times";
+  font-size:3em;
+  text-align: center;
+  padding-top: 5%;
   padding-bottom: 7%;
-  opacity: 0.85;
-  font-size: 24px;
+  opacity: 1;
+  // font-size: 24px;
   margin: auto;
   width: 89%;
   // max-width: 1000px;
   // letter-spacing: 20px;
 }
 
+@media (max-width: 600px) {
+  .olio {
+    font-size:1.6em;
+
+  }
+}
+
+
 .foot-wrap {
   width: 89%;
   margin: auto;
+}
+
+.footer-col-wrapper{
+  text-align:center;
+  font-size:2em;
+  font-family:"Sometimes Times";
 }
