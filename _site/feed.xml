@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Waterbear</title>
+    <description>Dave is a computer artist living in NYC. He currently enjoys VR, game development,  and making bad music.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Mar 2025 21:18:02 -0400</pubDate>
+    <lastBuildDate>Sun, 09 Mar 2025 21:18:02 -0400</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>2016</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/2551e835797363_570412c84ad22.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/b5432c35797363_570412e0af62d.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/c996a335797363_5704891018155.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2016/May/gc.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 May 2016 14:53:47 -0400</pubDate>
+        <link>http://localhost:4000/2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Launching Stumbbble</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.stumbbble.com&quot;&gt;
+&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/May/stumbbble-1.png&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stumbbble is an idea I’ve had kicking around for a few years.&lt;/p&gt;
+
+&lt;p&gt;The other day I got an email that the stumbbble.com domain I owned was about to expire. I decided it was time to do something with it.&lt;/p&gt;
+
+&lt;p&gt;The site was thrown together in a single day using &lt;a href=&quot;http://sailsjs.org/#!/&quot;&gt;sails.js&lt;/a&gt;, &lt;a href=&quot;https://angularjs.org/&quot;&gt;angular.js&lt;/a&gt;, &lt;a href=&quot;http://www.dribbble.com&quot;&gt;dribbble&lt;/a&gt;, and &lt;a href=&quot;https://www.kimonolabs.com/&quot;&gt;kimono labs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s not perfect, there are a fair ammount of bugs, but it feels good to build things and release tiny projects that have been chilling in the back of your mind. Hope you enojoy it.&lt;/p&gt;
+
+&lt;h3 id=&quot;stumbbblecom&quot;&gt;&lt;a href=&quot;http://www.stumbbble.com&quot;&gt;Stumbbble.com&lt;/a&gt;&lt;/h3&gt;
+
+</description>
+        <pubDate>Fri, 29 May 2015 10:51:22 -0400</pubDate>
+        <link>http://localhost:4000/stumbbble/</link>
+        <guid isPermaLink="true">http://localhost:4000/stumbbble/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introducing Lumber Mill</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/May/fresh.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/May/project_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the past few weeks I’ve been building a tool to help freelancers do better at money. It links your projects to actual data from your bank account, so your project pipeline is never our of date, and your income is always tagged (for awesome analytics!)&lt;/p&gt;
+
+&lt;p&gt;If this tool sounds interesting to you, let me know and I will work on releasing it for everyone :)&lt;/p&gt;
+
+&lt;h3 id=&quot;lumbermillco&quot;&gt;&lt;a href=&quot;http://www.lumbermill.co&quot;&gt;lumbermill.co&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 07 May 2015 12:46:13 -0400</pubDate>
+        <link>http://localhost:4000/introducing-lumber-mill/</link>
+        <guid isPermaLink="true">http://localhost:4000/introducing-lumber-mill/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>App Illustrations - Three Phases</title>
+        <description>&lt;p&gt;I just finished a collection of app illustrations for an awesome company I’ve been working with over the past few weeks. These illustrations will be the backdrop for the app and change based on time of day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/borderless.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dribbble.com/shots/2021229-Three-Phases/attachments/357415&quot;&gt;View the fullsize image&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/LikeMe_SunsetEmpty.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;detail-shots&quot;&gt;Detail shots&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/detail1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/detail2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/detail3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dribbble.com/shots/2128057-Whale-Migration&quot;&gt;View on Dribbble&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Apr 2015 11:18:07 -0400</pubDate>
+        <link>http://localhost:4000/app-illustrations/</link>
+        <guid isPermaLink="true">http://localhost:4000/app-illustrations/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Landscape parallax using CSS</title>
+        <description>&lt;style&gt;
+img.gif {width:100%}
+&lt;/style&gt;
+
+&lt;style&gt;
+img.gif {width:100%}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/AvLh7f0.gif&quot; class=&quot;gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;view-the-live-site&quot;&gt;&lt;a href=&quot;http://skyworks.enormo.us/&quot;&gt;View the Live Site&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h2 id=&quot;the-design&quot;&gt;The Design&lt;/h2&gt;
+
+&lt;p&gt;The design for this project was done by Eric Clecker, hes awesome &lt;a href=&quot;https://dribbble.com/cleck&quot;&gt;and you should follow him.&lt;/a&gt; Below is the progression of the illustrations, from the blocking sketch to coloring and texturing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/unnamed.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/unnamed_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/unnamed_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/unnamed.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Apr/unnamed_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-code&quot;&gt;The Code&lt;/h2&gt;
+
+&lt;h5 id=&quot;view-the-live-site-1&quot;&gt;&lt;a href=&quot;http://skyworks.enormo.us/&quot;&gt;View the Live Site&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;The site was built using &lt;a href=&quot;http://keithclark.co.uk/articles/pure-css-parallax-websites/&quot;&gt;this&lt;/a&gt; implementation Keith Clark came up with. I’ve done a variety of parallax effects before using all kinds of javascript but this one is by far my favorite because it uses CSS only which is huge.  Keith’s tutorial is great and the debug mode is especially cool. http://keithclark.co.uk/articles/pure-css-parallax-websites/&lt;/p&gt;
+
+&lt;p&gt;I did uncover a few issues that hopefully can help other people trying to implement this effect.&lt;/p&gt;
+
+&lt;h4 id=&quot;css-things-to-note&quot;&gt;CSS things to note&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sometimes the page length would get wayy out of control. I was messing with this for a a while before I figured it out. You can fix this by setting all the parallax layers  to &lt;strong&gt;position:fixed&lt;/strong&gt; to make sure they aren’t included in the overall scroll calculation.&lt;/li&gt;
+  &lt;li&gt;You might need and overlay layer for scrolling. I was facing a very strange issue only on my retina screen in chrome where the trackpad wouldn’t scroll within the parallax tag but instead tried to scroll on the body.
+I believe this has to do with the translateZ and can be fixed by adding transparent layers at the standard depth (translateZ(0)) with the css property &lt;strong&gt;pointer-events:none&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;does-it-work-on-mobile&quot;&gt;Does it work on mobile?&lt;/h4&gt;
+
+&lt;p&gt;Yes and no. Although technically it works because it is just CSS, since you are scrolling within the parallax tag, it does not have the smooth iOS momentum scrolling. This is kind of a deal breaker. The usual smooth scrolling fix of adding the below to the scrolling container, didn’t work and completely botched everything.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch; I honestly didn&apos;t test this very much and wasn&apos;t able to test android either, so its possible it could be tweaked to work on mobile. If anyone investigates mobile compaibility more defintley [let me know on twitter](http://www.twitter.com/davechenell)!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;final-result&quot;&gt;Final Result&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/AvLh7f0.gif&quot; class=&quot;gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;view-the-live-site-2&quot;&gt;&lt;a href=&quot;http://skyworks.enormo.us/&quot;&gt;View the Live Site&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;view-on-dribbble&quot;&gt;&lt;a href=&quot;https://dribbble.com/shots/2019575-Skyworks-Parallax&quot;&gt;View on Dribbble&lt;/a&gt;&lt;/h5&gt;
+
+&lt;h2 id=&quot;update-april-16th&quot;&gt;Update: April 16th&lt;/h2&gt;
+
+&lt;p&gt;Check out the Codepen example using CSS only.&lt;/p&gt;
+
+&lt;p data-height=&quot;705&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;Qweqdb&quot; data-default-tab=&quot;result&quot; data-user=&quot;dchen05&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/dchen05/pen/Qweqdb/&quot;&gt;Parallax Landscape CSS only&lt;/a&gt; by Dave Chenell (&lt;a href=&quot;http://codepen.io/dchen05&quot;&gt;@dchen05&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codepen.io/dchen05/pen/Qweqdb&quot;&gt;http://codepen.io/dchen05/pen/Qweqdb&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Apr 2015 15:52:52 -0400</pubDate>
+        <link>http://localhost:4000/pure-css-landscape-parallax/</link>
+        <guid isPermaLink="true">http://localhost:4000/pure-css-landscape-parallax/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mondium Identity</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Mar/mondiumCircle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Mar/mondiumLight.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I had the opportunity to rebrand a startup I’ve been working with. Mondium is building a sleek, futuristic, high end data visualization platform for the worlds data, focusing on global intelligence and political analysis. I tried to convey all those vibes in an open ended approach with a simple yet colorful mark that doesn’t confine the brand, instead focusing on the data-centric futuristic UI style that will be carried throughout the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dribbble.com/shots/1996021-Mondium-Identity&quot;&gt;View on Dribbble&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Mar 2015 09:09:25 -0400</pubDate>
+        <link>http://localhost:4000/mondium-identity/</link>
+        <guid isPermaLink="true">http://localhost:4000/mondium-identity/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>This past year</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Mar/yearreview.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;this-blog-is-one-year-old&quot;&gt;This blog is one year old&lt;/h2&gt;
+
+&lt;p&gt;Last  year around this time I decided I was going to “get better at the internet”. My former startup had officially just failed and I moved from a friends couch to a real apartment to began freelancing full time. I started this blog and began sharing the various design/animation/programming projects I get myself into without any real theme or goal in mind.&lt;/p&gt;
+
+&lt;p&gt;The outcome has been really incredible. I’m thankful for all 34k of you humans (or robots?) that checked out my blog this year and the opportunities that have come from that. Living and working in NYC has been amazing and this year I was fortunate enough to travel to London and San Francisco to work on really cool projects with awesome people. I’m stoked for 2105 and really appreciative for all my friends, family, clients, and mentors who helped in even the smallest of ways. You guys rock and I owe you everything.&lt;/p&gt;
+
+&lt;h4 id=&quot;top-posts-from-this-year&quot;&gt;Top posts from this year&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thewaterbear.com/nested-animations-in-angularjs-using-ui-router/&quot;&gt;Nested animations in AngularJS using ui-router&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thewaterbear.com/obstacle-avoidance-a-i/&quot;&gt;Obstacle Avoidance A.I.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thewaterbear.com/powder-released/&quot;&gt;Powder released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Side note: Celebrating new years in the winter is depressing. Celebrating the new year with a season change seems way better, thats happening, come on romans.&lt;/p&gt;
+
+&lt;p&gt;Follows - &amp;gt; &lt;a href=&quot;https://twitter.com/davechenell&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://dribbble.com/dchen&quot;&gt;Dribbble&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 10:17:31 -0400</pubDate>
+        <link>http://localhost:4000/this-past-year/</link>
+        <guid isPermaLink="true">http://localhost:4000/this-past-year/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Angular UI Read/Write</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://s3.amazonaws.com/waterbear/portfolio/ghost/images/2015/Jan/angularShare.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I’ve been working on a CMS platform in AngularJS.&lt;/p&gt;
+
+&lt;p&gt;Typically CMS’s have a lot of forms. Forms are ugly.&lt;/p&gt;
+
+&lt;p&gt;The design decision was to limit the amount of screens and forms needed by combining the Read/Edit screen into one with a simple toggle that gracefully transitions between the two states.&lt;/p&gt;
+
+&lt;p&gt;Here is a high level overview on how it works&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A custom directive is used to extend ng-model to work on non input elements (div/p/li) etc. This means the model is live updated as you edit, and totally safe when you are not editing. This means the same template could be use for frontend/admin.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When in “edit” mode, the HTML5 contenteditable attribute is used for text input and the appropriate css classes are added for editing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For dropdowns, I forked and simplified a version of angular-dropdown, which is used for dynamic populating/updating the select items. &lt;a href=&quot;https://github.com/thewaterbear/angular-dropdowns&quot;&gt;https://github.com/thewaterbear/angular-dropdowns&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Everything is tied together with CSS transitions using ng-class. The DB calls are made using angular $http.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More to come soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dribbble.com/shots/1891587-Angular-CMS&quot;&gt;View on Dribbble&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Jan 2015 21:56:43 -0500</pubDate>
+        <link>http://localhost:4000/angular-ui-read-write/</link>
+        <guid isPermaLink="true">http://localhost:4000/angular-ui-read-write/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Powder Released</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/powder-alpine-simulator/id859495503?mt=8&quot;&gt;&lt;img src=&quot;http://i.imgur.com/CTPtZ2a.jpg&quot; title=&quot;source: imgur.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;download-powder-here-for-ios&quot;&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/powder-alpine-simulator/id859495503?mt=8&quot;&gt;Download Powder Here for iOS&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;EDIT:  I made a splash page for the game because that seemed like a good idea &lt;a href=&quot;http://www.freshpowder.co/&quot;&gt;freshpowder.co&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Powder is side project game I have been working on since March 2014. It’s a retro inspired, minimalist skiing simulator where you take on an endless mountain landscape. The game is a mix between arcade and simulation as I tried to be as accurate to skiing as possible. The controls are flow based, simple to learn, yet hard to master. I tried to capture the feeling of skiing: working against gravity to stay in control as it pulls you down the mountain. The gameplay is both simultaneously soothing and stressful.&lt;/p&gt;
+
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/114789793&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;reactions&quot;&gt;Reactions&lt;/h3&gt;
+
+&lt;p&gt;By December, Powder had been sitting on my computer dormant for a few months. Right before Christmas, winter was here and I decided it was time to just get it finished and released. I pulled a few all nighters, finished it up and released it to the world. There was zero marking plan. We submitted it the app store, bugs and all, thinking no one would care, and that we could market and update it over time.&lt;/p&gt;
+
+&lt;p&gt;With no marketing, this was the reaction:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;200k+ downloads in the first week.&lt;/li&gt;
+  &lt;li&gt;Featured by Apple in 15+ countries&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt;“One of the most calming iOS games ever developed”&lt;/i&gt; - &lt;a href=&quot;http://time.com/3664896/iphone-games-space-marshals/&quot;&gt;TIME Magazine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i&gt; “A work of class”&lt;/i&gt; - App Spy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks so much to everyone who has downloaded it and played it. This response has been very unexpected!&lt;/p&gt;
+
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;http://www.youtube.com/embed/Eb0jIiXInB4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;technical-details&quot;&gt;Technical Details&lt;/h3&gt;
+
+&lt;h4 id=&quot;whats-new-in-11&quot;&gt;What’s new in 1.1&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now a universal app with iPad support&lt;/li&gt;
+  &lt;li&gt;Fixed control bug that would cause quick taps to be registered as the same tap&lt;/li&gt;
+  &lt;li&gt;Fixed bugs in UI&lt;/li&gt;
+  &lt;li&gt;(iPhone6+) Fixed black screen bug on (let me know if not?)&lt;/li&gt;
+  &lt;li&gt;(iPhone6+) For anyone experiencing the half screen rendering bug, turn your display mode to “Standard” in Settings &amp;gt; Display &amp;gt; View. A true fix will be coming soon.&lt;/li&gt;
+  &lt;li&gt;Patched side hack&lt;/li&gt;
+  &lt;li&gt;Adjusted gameplay difficulty progression&lt;/li&gt;
+  &lt;li&gt;Local high score shown if not using GameCenter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gameplay-tips&quot;&gt;Gameplay Tips:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hold your taps longer to stay in control, with long sweeping carves&lt;/li&gt;
+  &lt;li&gt;Double tap to jump to get out of tough situations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;coming-soon&quot;&gt;Coming Soon:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jumps&lt;/li&gt;
+  &lt;li&gt;Slalom Mode&lt;/li&gt;
+  &lt;li&gt;Chase Mode&lt;/li&gt;
+  &lt;li&gt;Time Trials&lt;/li&gt;
+  &lt;li&gt;Environmental Effects&lt;/li&gt;
+  &lt;li&gt;Full Soundtrack&lt;/li&gt;
+  &lt;li&gt;Android Version&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Follow &lt;a href=&quot;http://www.twitter.com/bucklumbergames&quot;&gt;@BuckLumberGames&lt;/a&gt; for updates. If you find more bugs, send an email to hello@bucklumber.co and I will get right on it!&lt;/p&gt;
+
+&lt;h4 id=&quot;disscuss-on-hacker-news&quot;&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=8882197&quot;&gt;Disscuss on Hacker News&lt;/a&gt;&lt;/h4&gt;
+
+</description>
+        <pubDate>Mon, 12 Jan 2015 08:06:22 -0500</pubDate>
+        <link>http://localhost:4000/powder-released/</link>
+        <guid isPermaLink="true">http://localhost:4000/powder-released/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Github, Forking, and NPM</title>
+        <description>&lt;p&gt;NPM is amazing, but sometimes you gotta tweak some code.&lt;/p&gt;
+
+&lt;p&gt;In the past this has stressed me out, I often take the modules out of Bower or NPM and stash them somewhere locally in my project. This breaks the cleanness of a package manager and is definitely not on my list of good ideas I’ve had. Here is a better way to do it:&lt;/p&gt;
+
+&lt;p&gt;First fork the project from Github, clone it locally, make your changes and push. This will give you your own edited version of the module that is under your control.&lt;/p&gt;
+
+&lt;p&gt;You can then use that module in your project right from Github. This means you don’t have to clutter NPM with nonsense custom packages. The package.json URL to your forked repo will be:
+						&lt;code&gt;https://github.com/USERNAME/REPONAME/tarball/master&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;An example package.json file could look like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{
+  &quot;name&quot;: &quot;AwesomeProject&quot;,
+  &quot;dependencies&quot;: {
+    &quot;sails&quot;: &quot;~0.10.5&quot;,
+    &quot;s3policy&quot;: &quot;https://github.com/thewaterbear/s3policy/tarball/master&quot;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Thats it! The best part is that this is all open source as well so others can see and use your changes.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Oct 2014 12:58:26 -0400</pubDate>
+        <link>http://localhost:4000/github-forking-and-npm/</link>
+        <guid isPermaLink="true">http://localhost:4000/github-forking-and-npm/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
