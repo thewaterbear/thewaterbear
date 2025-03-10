@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/thewaterbear/thewaterbear#readme",
   "dependencies": {
-    "jekyll": "^3.0.0-beta1"
+    "jekyll": "4.3.2"
   }
 }
