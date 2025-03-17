@@ -1,0 +1,97 @@
+---
+layout: default
+---
+
+    <style>
+        body {
+    
+            padding: 20px;
+        }
+        #gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start; /* Left align */
+            gap: 10px;
+/*            max-width: 100px;*/
+        }
+        img {
+            width: 500px;  /* Limit width */
+            height: 400px; /* Limit height */
+            height: auto;       /* Keep aspect ratio */
+            display: block;
+            padding: 5px;
+            border-radius: 5px;
+            object-fit: contain;
+        }
+        .olio {
+            text-align: left;
+            margin: 0;
+            padding-left:10px;
+        }
+
+        .oliosub {
+            font-size: 14px;
+            letter-spacing: 2px;
+            font-family: "Rajdhani";
+            font-weight: bolder;
+            opacity: 0.5;
+        }
+    </style>
+
+<div class="olio">Prototype Portfolio Excerpts<div class="oliosub">LOTS OF GIFS, MORE TO COME</div></div>
+
+
+<div class="workgroup">
+	
+</div>
+<div class="gifs"></div>
+
+
+
+
+<div id="gallery"></div>
+
+ <script>
+        const gallery = document.getElementById("gallery");
+        const totalImages = 60; // Adjust if needed
+        const imagePath = "https://s3.amazonaws.com/waterbear/prototypes/ttimage"; // Path to GIFs
+
+        function loadImage(index) {
+            if (index > totalImages) return;
+
+            if(index==18) return;
+            if(index==33) return;
+
+
+            let img = document.createElement("img");
+            img.src = ""; // Start empty
+            img.dataset.src = `${imagePath}${index}.gif`; // Lazy load source
+            img.alt = `GIF ${index}`;
+            img.loading = "lazy"; // Browser native lazy loading
+            gallery.appendChild(img);
+
+            setTimeout(() => {
+                img.src = img.dataset.src; // Waterfall effect
+            }, index * 100); // Load each image with a slight delay
+        }
+
+        for (let i = 1; i <= totalImages; i++) {
+            loadImage(i);
+        }
+
+
+        const gifs = document.querySelectorAll("img");
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.src = entry.target.dataset.src; // Load full GIF
+                } else {
+                    entry.target.src = "placeholder.jpg"; // Replace with static image
+                }
+            });
+        }, { rootMargin: "100px" });
+
+        gifs.forEach(img => observer.observe(img));
+    </script>
+
